@@ -1,0 +1,4 @@
+.env
+__pycache__SNOWFLAKE_USERNAME=your_snowflake_username
+SNOWFLAKE_PASSWORD=your_snowflake_password
+SNOWFLAKE_ACCOUNT=abcd-xy12345
